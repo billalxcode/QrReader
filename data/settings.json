@@ -1,0 +1,17 @@
+{
+    "name": "Qr Reader default settings",
+    "author": "Billal Fauzan",
+    "version": 1.0,
+    "repo": null,
+    "data": {
+        "extensions": {
+            "image": [{"name": "All Files", "type": "*"}, {"name": "Png Files", "type": "*.png"}, {"name": "Jpeg files", "type": "*.jpeg"}, {"name": "Jpg files", "type": "*.jpg"}],
+            "video": [{"name": "All Files", "type": "*"}, {"name": "MP4 files", "type": "*.mp4"}, {"name": "Avi files", "type": "*.avi"}]
+        },
+        "camera": {
+            "devices": 0,
+            "url": "",
+            "isUrl": false
+        }
+    }
+}
